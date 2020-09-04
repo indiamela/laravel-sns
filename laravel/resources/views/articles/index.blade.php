@@ -27,6 +27,6 @@
           </div>
         </div>
       </div>
-    @endforeach {{--この行を追加--}}
+    @endforeach
   </div>
 @endsection
